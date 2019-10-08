@@ -1,6 +1,7 @@
-import random
-random.seed(42)
 from virus import Virus
+import random
+from random import randint
+random.seed(42)
 
 
 class Person(object):
@@ -25,12 +26,22 @@ class Person(object):
         If Person survives, they become vaccinated and they have no infection.
         Return a boolean value indicating whether they survived the infection.
         '''
-        # Only called if infection attribute is not None.
-        # TODO:  Finish this method. Should return a Boolean
-        pass
+        if self.infection != None:
+            chance = random.uniform(0, 1)
+            if chance < self.infection.mortality_rate:
+                self.is_alive = False
+                return False
+            else:
+                self.is_vaccinated = True
+                return True
+
+        else:
+            return None
 
 
 ''' These are simple tests to ensure that you are instantiating your Person class correctly. '''
+
+
 def test_vacc_person_instantiation():
     # create some people to test if our init method works as expected
     person = Person(1, True)
@@ -39,13 +50,15 @@ def test_vacc_person_instantiation():
     assert person.is_vaccinated is True
     assert person.infection is None
 
+#  test for person not vaccinated
+
 
 def test_not_vacc_person_instantiation():
     person = Person(2, False)
-    # TODO: complete your own assert statements that test
-    # the values at each attribute
-    # assert ...
-    pass
+    assert person._id == 2
+    assert person.is_alive is True
+    assert person.is_vaccinated is False
+    assert person.infection is None
 
 
 def test_sick_person_instantiation():
