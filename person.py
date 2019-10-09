@@ -69,7 +69,13 @@ def test_sick_person_instantiation():
     # TODO: complete your own assert statements that test
     # the values at each attribute
     # assert ...
-    pass
+    assert person._id == 3
+    assert person.is_alive is True
+    assert person.is_vaccinated is False
+    assert person.infection == virus
+    assert person.infection.name == "Dysentery"
+    assert person.infection.repo_rate == 0.7
+    assert person.infection.mortality_rate == 0.2
 
 
 def test_did_survive_infection():
@@ -77,6 +83,13 @@ def test_did_survive_infection():
     virus = Virus("Dysentery", 0.7, 0.2)
     # TODO: Create a Person object and give them the virus infection
     person = Person(4, False, virus)
+    assert person._id == 4
+    assert person.is_alive is True
+    assert person.is_vaccinated is True
+    assert person.infection == virus
+    assert person.infection.name == "Dysentery"
+    assert person.infection.repo_rate == 0.7
+    assert person.infection.mortality_rate == 0.2
 
     # Resolve whether the Person survives the infection or not
     survived = person.did_survive_infection()
