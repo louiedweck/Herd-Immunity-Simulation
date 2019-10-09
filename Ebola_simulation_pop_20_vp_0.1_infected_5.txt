@@ -1,0 +1,242 @@
+Ebola has successfully been created with a vaccination percentage of 10.0% and a mortality rate of 70.0%. The population has also been created with 20 people. World Extermination begins now!
+0 interacted with 3, but 3 was already infected.
+0 interacted with 8, and 8 didn't get infected.
+0 interacted with 7, and 7 didn't get infected.
+0 interacted with 7, and 7 didn't get infected.
+0 interacted with 4, but 4 was already infected.
+0 interacted with 3, but 3 was already infected.
+0 interacted with 17, and 17 didn't get infected.
+0 interacted with 2, but 2 was already infected.
+0 interacted with 18, and 18 didn't get infected.
+0 interacted with 13, and 13 got infected.
+0 interacted with 1, but 1 was already infected.
+0 interacted with 2, but 2 was already infected.
+0 interacted with 6, but 6 was already vaccinated.
+0 interacted with 7, and 7 didn't get infected.
+0 interacted with 16, and 16 didn't get infected.
+0 interacted with 19, and 19 didn't get infected.
+0 interacted with 17, and 17 didn't get infected.
+0 interacted with 6, but 6 was already vaccinated.
+0 interacted with 17, and 17 got infected.
+0 died from the infection1 interacted with 11, and 11 didn't get infected.
+1 interacted with 11, and 11 didn't get infected.
+1 interacted with 19, and 19 didn't get infected.
+1 interacted with 8, and 8 didn't get infected.
+1 interacted with 14, and 14 didn't get infected.
+1 interacted with 17, and 17 didn't get infected.
+1 interacted with 3, but 3 was already infected.
+1 interacted with 12, and 12 got infected.
+1 interacted with 2, but 2 was already infected.
+1 interacted with 17, and 17 didn't get infected.
+1 interacted with 9, and 9 didn't get infected.
+1 interacted with 19, and 19 didn't get infected.
+1 interacted with 11, and 11 didn't get infected.
+1 interacted with 18, and 18 got infected.
+1 interacted with 6, but 6 was already vaccinated.
+1 interacted with 2, but 2 was already infected.
+1 interacted with 7, and 7 didn't get infected.
+1 interacted with 9, and 9 didn't get infected.
+1 died from the infection2 interacted with 14, and 14 got infected.
+2 interacted with 12, and 12 got infected.
+2 interacted with 8, and 8 didn't get infected.
+2 interacted with 17, and 17 didn't get infected.
+2 interacted with 7, and 7 didn't get infected.
+2 interacted with 10, and 10 didn't get infected.
+2 interacted with 7, and 7 didn't get infected.
+2 interacted with 10, and 10 didn't get infected.
+2 interacted with 12, and 12 didn't get infected.
+2 interacted with 8, and 8 got infected.
+2 interacted with 6, but 6 was already vaccinated.
+2 interacted with 18, and 18 didn't get infected.
+2 interacted with 10, and 10 didn't get infected.
+2 interacted with 6, but 6 was already vaccinated.
+2 interacted with 15, and 15 didn't get infected.
+2 interacted with 12, and 12 got infected.
+2 interacted with 14, and 14 got infected.
+2 survived the infection and is now vaccinated3 interacted with 19, and 19 didn't get infected.
+3 interacted with 2, but 2 was already vaccinated.
+3 interacted with 12, and 12 didn't get infected.
+3 interacted with 12, and 12 didn't get infected.
+3 interacted with 19, and 19 got infected.
+3 interacted with 14, and 14 didn't get infected.
+3 interacted with 16, and 16 didn't get infected.
+3 interacted with 8, and 8 didn't get infected.
+3 interacted with 17, and 17 got infected.
+3 interacted with 17, and 17 didn't get infected.
+3 interacted with 8, and 8 got infected.
+3 interacted with 10, and 10 didn't get infected.
+3 interacted with 9, and 9 didn't get infected.
+3 interacted with 13, and 13 didn't get infected.
+3 interacted with 5, but 5 was already vaccinated.
+3 interacted with 14, and 14 didn't get infected.
+3 interacted with 8, and 8 didn't get infected.
+3 died from the infection4 interacted with 11, and 11 didn't get infected.
+4 interacted with 9, and 9 didn't get infected.
+4 interacted with 7, and 7 didn't get infected.
+4 interacted with 7, and 7 didn't get infected.
+4 interacted with 18, and 18 didn't get infected.
+4 interacted with 2, but 2 was already vaccinated.
+4 interacted with 2, but 2 was already vaccinated.
+4 interacted with 15, and 15 didn't get infected.
+4 interacted with 2, but 2 was already vaccinated.
+4 interacted with 17, and 17 didn't get infected.
+4 interacted with 15, and 15 didn't get infected.
+4 interacted with 17, and 17 didn't get infected.
+4 interacted with 5, but 5 was already vaccinated.
+4 interacted with 8, and 8 didn't get infected.
+4 interacted with 16, and 16 got infected.
+4 interacted with 19, and 19 didn't get infected.
+4 died from the infection2 interacted with 18, but 18 was already infected.
+2 interacted with 17, but 17 was already infected.
+2 interacted with 7, and 7 didn't get infected.
+2 interacted with 18, but 18 was already infected.
+2 interacted with 7, and 7 didn't get infected.
+2 interacted with 7, and 7 didn't get infected.
+2 interacted with 10, and 10 got infected.
+2 interacted with 16, but 16 was already infected.
+2 interacted with 7, and 7 got infected.
+2 interacted with 8, but 8 was already infected.
+2 interacted with 15, and 15 didn't get infected.
+2 interacted with 6, but 6 was already vaccinated.
+2 interacted with 17, but 17 was already infected.
+2 interacted with 18, but 18 was already infected.
+2 interacted with 18, but 18 was already infected.
+2 died from the infection8 interacted with 14, but 14 was already infected.
+8 interacted with 12, but 12 was already infected.
+8 interacted with 10, and 10 got infected.
+8 interacted with 7, and 7 didn't get infected.
+8 interacted with 6, but 6 was already vaccinated.
+8 interacted with 6, but 6 was already vaccinated.
+8 interacted with 17, but 17 was already infected.
+8 interacted with 14, but 14 was already infected.
+8 interacted with 13, but 13 was already infected.
+8 interacted with 5, but 5 was already vaccinated.
+8 interacted with 14, but 14 was already infected.
+8 interacted with 7, and 7 didn't get infected.
+8 interacted with 14, but 14 was already infected.
+8 interacted with 17, but 17 was already infected.
+8 died from the infection12 interacted with 7, and 7 didn't get infected.
+12 interacted with 5, but 5 was already vaccinated.
+12 interacted with 13, but 13 was already infected.
+12 interacted with 15, and 15 didn't get infected.
+12 interacted with 15, and 15 didn't get infected.
+12 interacted with 6, but 6 was already vaccinated.
+12 interacted with 5, but 5 was already vaccinated.
+12 interacted with 14, but 14 was already infected.
+12 interacted with 9, and 9 didn't get infected.
+12 interacted with 13, but 13 was already infected.
+12 interacted with 17, but 17 was already infected.
+12 interacted with 15, and 15 didn't get infected.
+12 interacted with 6, but 6 was already vaccinated.
+12 died from the infection13 interacted with 18, but 18 was already infected.
+13 interacted with 15, and 15 didn't get infected.
+13 interacted with 16, but 16 was already infected.
+13 interacted with 16, but 16 was already infected.
+13 interacted with 5, but 5 was already vaccinated.
+13 interacted with 16, but 16 was already infected.
+13 interacted with 5, but 5 was already vaccinated.
+13 interacted with 19, but 19 was already infected.
+13 interacted with 7, and 7 didn't get infected.
+13 interacted with 18, but 18 was already infected.
+13 interacted with 7, and 7 didn't get infected.
+13 interacted with 18, but 18 was already infected.
+13 died from the infection14 interacted with 16, but 16 was already infected.
+14 interacted with 10, and 10 didn't get infected.
+14 interacted with 6, but 6 was already vaccinated.
+14 interacted with 10, and 10 got infected.
+14 interacted with 7, and 7 didn't get infected.
+14 interacted with 9, and 9 got infected.
+14 interacted with 10, and 10 didn't get infected.
+14 interacted with 19, but 19 was already infected.
+14 interacted with 18, but 18 was already infected.
+14 interacted with 17, but 17 was already infected.
+14 interacted with 6, but 6 was already vaccinated.
+14 died from the infection16 interacted with 17, but 17 was already infected.
+16 interacted with 9, and 9 didn't get infected.
+16 interacted with 19, but 19 was already infected.
+16 interacted with 17, but 17 was already infected.
+16 interacted with 9, and 9 didn't get infected.
+16 interacted with 17, but 17 was already infected.
+16 interacted with 9, and 9 didn't get infected.
+16 interacted with 19, but 19 was already infected.
+16 interacted with 6, but 6 was already vaccinated.
+16 interacted with 10, and 10 didn't get infected.
+16 survived the infection and is now vaccinated17 interacted with 10, and 10 didn't get infected.
+17 interacted with 5, but 5 was already vaccinated.
+17 interacted with 11, and 11 didn't get infected.
+17 interacted with 18, but 18 was already infected.
+17 interacted with 9, and 9 didn't get infected.
+17 interacted with 11, and 11 didn't get infected.
+17 interacted with 11, and 11 got infected.
+17 interacted with 6, but 6 was already vaccinated.
+17 interacted with 7, and 7 didn't get infected.
+17 interacted with 11, and 11 didn't get infected.
+17 survived the infection and is now vaccinated18 interacted with 5, but 5 was already vaccinated.
+18 interacted with 5, but 5 was already vaccinated.
+18 interacted with 10, and 10 didn't get infected.
+18 interacted with 7, and 7 didn't get infected.
+18 interacted with 5, but 5 was already vaccinated.
+18 interacted with 15, and 15 didn't get infected.
+18 interacted with 7, and 7 didn't get infected.
+18 interacted with 6, but 6 was already vaccinated.
+18 interacted with 11, and 11 didn't get infected.
+18 interacted with 9, and 9 didn't get infected.
+18 died from the infection19 interacted with 11, and 11 didn't get infected.
+19 interacted with 16, but 16 was already vaccinated.
+19 interacted with 17, but 17 was already vaccinated.
+19 interacted with 10, and 10 didn't get infected.
+19 interacted with 5, but 5 was already vaccinated.
+19 interacted with 11, and 11 got infected.
+19 interacted with 10, and 10 didn't get infected.
+19 interacted with 16, but 16 was already vaccinated.
+19 interacted with 6, but 6 was already vaccinated.
+19 died from the infection7 interacted with 6, but 6 was already vaccinated.
+7 interacted with 11, but 11 was already infected.
+7 interacted with 10, but 10 was already infected.
+7 interacted with 10, but 10 was already infected.
+7 interacted with 9, but 9 was already infected.
+7 interacted with 16, but 16 was already vaccinated.
+7 interacted with 9, but 9 was already infected.
+7 interacted with 10, but 10 was already infected.
+7 died from the infection9 interacted with 17, but 17 was already vaccinated.
+9 interacted with 6, but 6 was already vaccinated.
+9 interacted with 5, but 5 was already vaccinated.
+9 interacted with 17, but 17 was already vaccinated.
+9 interacted with 6, but 6 was already vaccinated.
+9 interacted with 10, but 10 was already infected.
+9 interacted with 6, but 6 was already vaccinated.
+9 died from the infection10 interacted with 5, but 5 was already vaccinated.
+10 interacted with 16, but 16 was already vaccinated.
+10 interacted with 6, but 6 was already vaccinated.
+10 interacted with 15, and 15 didn't get infected.
+10 interacted with 6, but 6 was already vaccinated.
+10 interacted with 15, and 15 got infected.
+10 survived the infection and is now vaccinated11 interacted with 5, but 5 was already vaccinated.
+11 interacted with 16, but 16 was already vaccinated.
+11 interacted with 17, but 17 was already vaccinated.
+11 interacted with 16, but 16 was already vaccinated.
+11 interacted with 17, but 17 was already vaccinated.
+11 interacted with 10, but 10 was already vaccinated.
+11 survived the infection and is now vaccinated16 interacted with 17, but 17 was already vaccinated.
+16 interacted with 5, but 5 was already vaccinated.
+16 interacted with 15, and 15 didn't get infected.
+16 interacted with 15, and 15 got infected.
+16 interacted with 10, but 10 was already vaccinated.
+16 interacted with 10, but 10 was already vaccinated.
+16 died from the infection17 interacted with 6, but 6 was already vaccinated.
+17 interacted with 10, but 10 was already vaccinated.
+17 interacted with 6, but 6 was already vaccinated.
+17 interacted with 15, and 15 didn't get infected.
+17 interacted with 11, but 11 was already vaccinated.
+17 died from the infection10 interacted with 15, but 15 was already infected.
+10 interacted with 15, but 15 was already infected.
+10 interacted with 5, but 5 was already vaccinated.
+10 interacted with 5, but 5 was already vaccinated.
+10 died from the infection11 interacted with 6, but 6 was already vaccinated.
+11 interacted with 15, but 15 was already infected.
+11 interacted with 6, but 6 was already vaccinated.
+11 survived the infection and is now vaccinated15 interacted with 6, but 6 was already vaccinated.
+15 interacted with 11, but 11 was already vaccinated.
+15 interacted with 5, but 5 was already vaccinated.
+15 survived the infection and is now vaccinated
+Simulation ended with 4 people remaining after 4 turns.
