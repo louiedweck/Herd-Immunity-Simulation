@@ -96,12 +96,13 @@ def test_did_survive_infection():
     # Check if the Person survived or not
     if survived:
         assert person.is_alive is True
+        assert person.is_vaccinated is True
         # TODO: Write your own assert statements that test
         # the values of each attribute for a Person who survived
         # assert ...
     else:
         assert person.is_alive is False
+        assert person.is_vaccinated is False
         # TODO: Write your own assert statements that test
         # the values of each attribute for a Person who did not survive
         # assert ...
-        pass
