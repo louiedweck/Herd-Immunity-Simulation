@@ -1,8 +1,9 @@
-import random, sys
-random.seed(42)
-from person import Person
-from logger import Logger
 from virus import Virus
+from logger import Logger
+from person import Person
+import random
+import sys
+random.seed(42)
 
 
 class Simulation(object):
@@ -13,7 +14,8 @@ class Simulation(object):
     population that are vaccinated, the size of the population, and the amount of initially
     infected people in a population are all variables that can be set when the program is run.
     '''
-    def __init__(self, pop_size, vacc_percentage, initial_infected=1, virus):
+
+    def __init__(self, pop_size, vacc_percentage,  virus, initial_infected=1):
         ''' Logger object logger records all events during the simulation.
         Population represents all Persons in the population.
         The next_person_id is the next available id for all created Persons,
@@ -37,15 +39,15 @@ class Simulation(object):
         # At the end of each time step, call self._infect_newly_infected()
         # and then reset .newly_infected back to an empty list.
         self.logger = None
-        self.population = [] # List of Person objects
-        self.pop_size = pop_size # Int
-        self.next_person_id = 0 # Int
-        self.virus = virus # Virus object
-        self.initial_infected = initial_infected # Int
-        self.total_infected = 0 # Int
-        self.current_infected = 0 # Int
-        self.vacc_percentage = vacc_percentage # float between 0 and 1
-        self.total_dead = 0 # Int
+        self.population = []  # List of Person objects
+        self.pop_size = pop_size  # Int
+        self.next_person_id = 0  # Int
+        self.virus = virus  # Virus object
+        self.initial_infected = initial_infected  # Int
+        self.total_infected = 0  # Int
+        self.current_infected = 0  # Int
+        self.vacc_percentage = vacc_percentage  # float between 0 and 1
+        self.total_dead = 0  # Int
         self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
             virus_name, population_size, vacc_percentage, initial_infected)
         self.newly_infected = []
@@ -95,9 +97,10 @@ class Simulation(object):
         should_continue = None
 
         while should_continue:
-        # TODO: for every iteration of this loop, call self.time_step() to compute another
-        # round of this simulation.
-        print('The simulation has ended after {time_step_counter} turns.'.format(time_step_counter))
+            # TODO: for every iteration of this loop, call self.time_step() to compute another
+            # round of this simulation.
+        print('The simulation has ended after {time_step_counter} turns.'.format(
+            time_step_counter))
         pass
 
     def time_step(self):
@@ -130,15 +133,15 @@ class Simulation(object):
 
         # TODO: Finish this method.
         #  The possible cases you'll need to cover are listed below:
-            # random_person is vaccinated:
-            #     nothing happens to random person.
-            # random_person is already infected:
-            #     nothing happens to random person.
-            # random_person is healthy, but unvaccinated:
-            #     generate a random number between 0 and 1.  If that number is smaller
-            #     than repro_rate, random_person's ID should be appended to
-            #     Simulation object's newly_infected array, so that their .infected
-            #     attribute can be changed to True at the end of the time step.
+        # random_person is vaccinated:
+        #     nothing happens to random person.
+        # random_person is already infected:
+        #     nothing happens to random person.
+        # random_person is healthy, but unvaccinated:
+        #     generate a random number between 0 and 1.  If that number is smaller
+        #     than repro_rate, random_person's ID should be appended to
+        #     Simulation object's newly_infected array, so that their .infected
+        #     attribute can be changed to True at the end of the time step.
         # TODO: Call slogger method during this method.
         pass
 
